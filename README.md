@@ -5,5 +5,6 @@
 - Add Patient
 - Add Doctor
 - Add Room
+- Add Ward
 - Add User
 - enerate Bills
