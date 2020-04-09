@@ -7,4 +7,4 @@
 - Add Room
 - Add Ward
 - Add User
-- enerate Bills
+- Generate Bills
